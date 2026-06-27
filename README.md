@@ -1,14 +1,18 @@
 # Dano-airline-customer-satisfaction-dashboard
+
 Interactive Power BI dashboard analyzing Dano Airlines customer satisfaction, flight delays, and service performance using data visualization and business insights.
+
 Project Overview
 This project analyzes customer satisfaction across Dano Airlines using Power BI. The objective was to identify service gaps, understand the impact of flight delays on customer experience, and provide actionable recommendations to improve operational performance.
 Business Problem
 Airlines receive thousands of customer interactions daily. Without proper analysis, identifying the key drivers of satisfaction becomes difficult.
+
 This dashboard was developed to help management answer questions such as:
 - How satisfied are customers overall?
 - Do delays affect customer satisfaction?
 - Which service areas need improvement?
 - Which routes perform best?
+
 Objectives
 - Analyze customer satisfaction trends
 - Evaluate flight delay performance
@@ -16,6 +20,7 @@ Objectives
 - Provide actionable business recommendations
 
 Dataset
+
 | Source | Training Dataset |
 | Tool | Microsoft Excel |
 | Visualization | Power BI |
@@ -26,7 +31,10 @@ Tools Used
 - Power Query
 - DAX
 - Microsoft Excel
+
 Dashboard Preview
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/bd841528-8877-4bab-944c-34e9d89c8fdf" />
+
 
 Key KPIs
 - Overall Customer Satisfaction
@@ -46,6 +54,7 @@ Business Recommendations
 - Prioritize maintenance for routes with recurring disruptions.
 - Continue monitoring customer feedback.
 - Introduce proactive communication during delays.
+
 Repository Structure
 ```
 data/
