@@ -14,28 +14,33 @@ Objectives
 - Evaluate flight delay performance
 - Measure service quality
 - Provide actionable business recommendations
+
 Dataset
 | Source | Training Dataset |
 | Tool | Microsoft Excel |
 | Visualization | Power BI |
 | Data Cleaning | Power Query |
+
 Tools Used
 - Power BI
 - Power Query
 - DAX
 - Microsoft Excel
 Dashboard Preview
+
 Key KPIs
 - Overall Customer Satisfaction
 - Average Flight Delay
 - On-Time Performance
 - Service Rating
 - Customer Recommendation Score
+
 Key Insights
 - Longer delays significantly reduced customer satisfaction.
 - On-time flights consistently received higher ratings.
 - Service quality remained strong even when delays occurred.
 - Certain routes experienced recurring operational issues.
+
 Business Recommendations
 - Improve flight scheduling to reduce delays.
 - Prioritize maintenance for routes with recurring disruptions.
@@ -50,6 +55,7 @@ powerbi/
 README.md
 ```
 Author
+
 Alwell Nnachi
 Data Analyst | Power BI | SQL | Excel | Business Intelligence
 
